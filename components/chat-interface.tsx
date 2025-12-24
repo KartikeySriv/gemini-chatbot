@@ -151,7 +151,7 @@ export default function ChatInterface() {
             <p className="text-xs text-muted-foreground">Powered by Google</p>
           </div>
         </div>
-        <ThemeToggle />
+        {/* <ThemeToggle /> */}
       </div>
 
       <ScrollArea className="h-[500px] p-4">
