@@ -26,7 +26,6 @@ A modern, feature-rich AI chatbot application powered by Google's Gemini API. Bu
 1. **Clone the repository**
    ```bash
    git clone https://github.com/KartikeySriv/gemini-chatbot.git
-   cd chatbot
    ```
 
 2. **Install dependencies**
